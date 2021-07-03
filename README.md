@@ -20,3 +20,7 @@ AWS Lambda function to sync object from `bucket source` to `bucket destination` 
 	- AWS_ACCESS_KEY_ID Destination
 	- AWS_SECRET_ACCESS_KEY Destination
 	- Then put those keys to AWS SSM Parameter above
+
+## License
+
+This work is licensed under MIT License. See LICENSE for full details.
